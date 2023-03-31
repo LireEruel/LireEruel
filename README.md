@@ -11,9 +11,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : <a href="https://github.com/LireEruel/study">study</a> , <a href="https://github.com/LireEruel/Algorithm">Algorithm</a>
+🔭 I’m currently working on my github page : <a href="https://github.com/LireEruel/study">study</a> , <a href="https://github.com/LireEruel/Algorithm">Algorithm</a>, <a href="https://github.com/LireEruel/vanillar-js">Vanillar-js</a>
   
-🌱 I’m currently learning : Data structure, Algorithm
+🌱 I’m currently learning : Data structure, Algorithm, js
 
   👯 I’m looking for a job
 
