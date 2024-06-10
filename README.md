@@ -11,7 +11,7 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page : <a href="https://github.com/LireEruel/study">study</a> , <a href="https://github.com/LireEruel/Algorithm">Algorithm</a>, <a href="https://github.com/LireEruel/vanillar-js">Vanillar-js</a>
+🔭 I’m currently working on my github page : <a href="https://github.com/LireEruel/cs-study">cs-study</a> , <a href="https://github.com/LireEruel/Algorithm">Algorithm</a>
   
 🌱 I’m currently learning : Algorithm, Java
 
@@ -19,7 +19,7 @@
 
   💬 Ask me about for any help
 
-  📫 How to reach me : Mail me at "jsh001505@naver.com"
+  📫 How to reach me : 커리어리에서 "정서희"를 검색해주세요!
 
 ⚡ Fun fact: My nickname, LireEruel, is the name of my favorite character. 🧚‍♀️
 
